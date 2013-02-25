@@ -70,7 +70,7 @@ $cakeDescription = __d('cake_dev', 'Welcome To MyBlog');
 			</div>
 		</header>
 
-			<?php echo $this->element('slider_home'); ?>
+			<?php /*echo $this->element('slider_home'); */?>
 
 			<?php echo $this->fetch('content'); ?>
 	
